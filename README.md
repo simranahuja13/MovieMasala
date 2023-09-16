@@ -4,6 +4,6 @@ Hello, I'm Simran Ahuja! 😊 I've recently delved into React, and I'm excited t
 
 2. Click the "Search" button ⌨️.
 
-3. Voilà! The app will promptly display the details of your desired movie 🚀, allowing you to explore your favorite films with ease. 
+3.  The app will promptly display the details of your desired movie 🚀, allowing you to explore your favorite films with ease. 
 
 Feel free to give it a try and embark on a movie-finding adventure! 🍿
