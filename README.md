@@ -1,3 +1,5 @@
+#  🎬 Movie Search App
+
 Hello, I'm Simran Ahuja! 😊 I've recently delved into React, and I'm excited to introduce you to my Movie Search App 🎬. This application is designed to help you find your favorite movies effortlessly. To use it, just follow these straightforward steps:
 
 1. Input the name of the movie you're looking for 🎥.
